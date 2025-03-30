@@ -1,0 +1,5 @@
+G:/School/Projects/QuestVisionProject/ObjectDetection/.utmp/Debug/4d6u1u1f/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/School/Projects/QuestVisionProject/ObjectDetection/.utmp/Debug/4d6u1u1f/arm64-v8a/CMakeFiles/rebuild_cache.dir
+G:/School/Projects/QuestVisionProject/ObjectDetection/.utmp/Debug/4d6u1u1f/arm64-v8a/GameActivity/CMakeFiles/game.dir
+G:/School/Projects/QuestVisionProject/ObjectDetection/.utmp/Debug/4d6u1u1f/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+G:/School/Projects/QuestVisionProject/ObjectDetection/.utmp/Debug/4d6u1u1f/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
